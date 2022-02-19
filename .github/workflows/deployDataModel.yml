@@ -9,9 +9,9 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://org40d59beb.crm8.dynamics.com'
-  CLIENT_ID: 'ebc9a79c-d471-4dfc-bb07-d6bbdc6e5392'
-  TENANT_ID: 'e0746178-dab3-42b8-b472-9f60695cb522'
+  ENVIRONMENT_URL: 'https://.crm8.dynamics.com'
+  CLIENT_ID: 'df081976-1e07-4e58-8d67-f4bd7a278012'
+  TENANT_ID: '4d8dcce0-531c-4064-902c-ca06a11f1ba8'
 
 # Deploy 
 jobs:
