@@ -9,7 +9,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://org7e342b1b.crm8.dynamics.com'
+  ENVIRONMENT_URL: 'https://org40d59beb.crm8.dynamics.com'
   CLIENT_ID: 'ebc9a79c-d471-4dfc-bb07-d6bbdc6e5392'
   TENANT_ID: 'e0746178-dab3-42b8-b472-9f60695cb522'
 
